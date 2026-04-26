@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+requests
+python-dotenv
+langchain-ollama
+
+## use pip install -r requirements.txt to install all dependencies at once
