@@ -13,7 +13,7 @@ news_list = get_german_news(api_key)
 print("Loading AI model... (this may take a minute the first time)")
 ner_model = pipeline(
     "ner", 
-    model="Davlan/bert-base-multilingual-cased-ner-hrl", ##a German job interview, if you say "I used a BERT-based multilingual model from Hugging Face,"
+    model="Davlan/bert-base-multilingual-cased-ner-hrl", ##Using a BERT-based multilingual model from Hugging Face
     aggregation_strategy="simple"
 )
 def extract_companies(articles):
