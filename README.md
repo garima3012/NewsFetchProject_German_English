@@ -1,8 +1,8 @@
-# 🇩🇪 German Industrial Risk Intelligence Hub
+# German Industrial Risk Intelligence Hub
 
 An AI-powered web dashboard for automated supply chain risk monitoring in the German Mittelstand sector. This application fetches multilingual news, extracts company entities using advanced NLP, and analyzes potential risks using local large language models.
 
-## 🚀 Features
+##  Features
 
 - **Multilingual News Fetching**: Retrieves relevant news in German and English for comprehensive coverage
 - **Named Entity Recognition**: Uses BERT-based multilingual model to extract company names from news headlines
@@ -11,7 +11,7 @@ An AI-powered web dashboard for automated supply chain risk monitoring in the Ge
 - **Real-time Processing**: Provides instant risk reports based on latest news data
 - **Privacy-Focused**: Runs entirely locally with no data sent to external servers
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Streamlit
 - **AI/ML**: Transformers, PyTorch, LangChain-Ollama
@@ -19,13 +19,13 @@ An AI-powered web dashboard for automated supply chain risk monitoring in the Ge
 - **Languages**: Python 3.8+
 - **Environment**: Virtual environments
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.8 or higher
 - Ollama installed and running locally
 - NewsAPI key (free tier available)
 
-## 🔧 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -55,7 +55,7 @@ An AI-powered web dashboard for automated supply chain risk monitoring in the Ge
    ollama serve
    ```
 
-## 🎯 Usage
+## Usage
 
 1. **Start the application**
    ```bash
@@ -75,7 +75,7 @@ An AI-powered web dashboard for automated supply chain risk monitoring in the Ge
    - Detailed risk assessment
    - Source news articles
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NewsFetchProject/
@@ -89,7 +89,7 @@ NewsFetchProject/
 └── README.md            # This file
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -97,27 +97,21 @@ NewsFetchProject/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Garima Kumari**  
 - GitHub: [@garima3012](https://github.com/garima3012)
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [Garima Kumari](https://www.linkedin.com/in/garima-kumari-0840731a7)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [NewsAPI](https://newsapi.org/) for news data
 - [Hugging Face](https://huggingface.co/) for BERT models
 - [Ollama](https://ollama.ai/) for local LLM hosting
 - [Streamlit](https://streamlit.io/) for the web framework
 
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
-
----
-
-*Built with ❤️ for responsible AI in industrial risk management*
+--
